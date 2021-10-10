@@ -1,8 +1,8 @@
 # Random-Hex-Color-Generator-Post
+Posted @codenewbie : 20/09/2021
+
 
 # Random Hex Color Generator 
-
-
 
 Choosing matching colors when creating a web page is crucial as same as choosing clothes to wear. With the help of **Random Hex Color Generator**, it can be done in a little easier way. It generates hex color code as an actual color and also in text format randomly. 
 
